@@ -1,0 +1,48 @@
+header.masthead {
+    position: relative;
+    background: url(../img/block2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    height: 100vh;
+}
+
+section.showcase .showcase-zoom {
+    position: relative;
+    background-color: #FFFFFF;
+    background-image: url(../img/zoom5.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+section.showcase .showcase-docs {
+    position: relative;
+    background-color: #FFFFFF;
+    background-image: url(../img/books2.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+section.showcase .showcase-question {
+    position: center;
+    background-color: #FFFFFF;
+    background-image: url(../img/question1.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.call-to-action {
+    position: relative;
+    background: url(../img/bg8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
